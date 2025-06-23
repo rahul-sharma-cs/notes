@@ -1,6 +1,6 @@
 # Flask Web App
 
-This is a simple full-stack web application built using **Flask** on the backend and **HTML/CSS/JS** on the frontend. I followed along with [Tech With Tim’s tutorial](https://www.youtube.com/watch?v=dam0GPOAvVI) to understand how Flask apps are structured and deployed.
+This is a simple full-stack web application built using **Flask** on the backend and **HTML/CSS/JS** on the frontend.
 
 ## 🔧 What it does
 
@@ -39,10 +39,6 @@ I wanted to get more hands-on with Flask and see how a full-stack Python web app
   views.py                 # Main routes (home, add/delete note)
 main.py                    # Entry point
 ```
-
-## 📹 Demo
-
-You can check out a quick demo on YouTube: [Flask App Demo](https://www.youtube.com/watch?v=dam0GPOAvVI)
 
 ## 📝 What I learned
 
